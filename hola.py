@@ -1,1 +1,3 @@
-print("hola en python")
+
+nombre ="superman"
+print("hola en python con ", nombre)
